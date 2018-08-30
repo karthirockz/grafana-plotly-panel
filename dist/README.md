@@ -1,9 +1,5 @@
 ## Plot.ly Panel for Grafana
 
-[![CircleCI](https://circleci.com/gh/NatelEnergy/grafana-plotly-panel/tree/master.svg?style=svg)](https://circleci.com/gh/NatelEnergy/grafana-plotly-panel/tree/master)
-[![dependencies Status](https://david-dm.org/NatelEnergy/grafana-plotly-panel/status.svg)](https://david-dm.org/NatelEnergy/grafana-plotly-panel)
-[![devDependencies Status](https://david-dm.org/NatelEnergy/grafana-plotly-panel/dev-status.svg)](https://david-dm.org/NatelEnergy/grafana-plotly-panel?type=dev)
-
 Render metrics using the plot.ly javascript framework
 
 Works with grafana 4 and 5
@@ -28,7 +24,7 @@ yarn build
 
 #### Changelog
 
-##### v0.0.5-dev
+##### v0.0.5
 
 - Upgrade plotly (v1.40+)
 - Better support for light theme. (#24, @cscheuermann81)
